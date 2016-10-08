@@ -46,7 +46,7 @@ Inspired by @orta's [keyboard_shortcuts](https://github.com/orta/keyboard_shortc
 
 ## Mac OS X (soon to be macOS)
 
-<kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>?</kbd> to search current app's menus.
+<kbd>&#8984;</kbd> + <kbd>Shift</kbd> + <kbd>?</kbd> to search current app's menus.
 Try to learn the keyboard shortcuts for useful commands.
 
 ### Window Management
