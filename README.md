@@ -46,7 +46,7 @@ Inspired by @orta's [keyboard_shortcuts](https://github.com/orta/keyboard_shortc
 
 ## Mac OS X (soon to be macOS)
 
-<kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>?</kbd> to search current app's menus.
+<kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>?</kbd> to search current app's menus.
 Try to learn the keyboard shortcuts for useful commands.
 
 ### Window Management
@@ -60,12 +60,12 @@ Try to learn the keyboard shortcuts for useful commands.
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>Command</kbd> + <kbd>w</kbd> | Close window or tab |
-| <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>w</kbd> | Close all tabs |
-| <kbd>Command</kbd> + <kbd>t</kbd> | New tab |
-| <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>[</kbd> | Previous tab (not all apps) |
-| <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd> | Next tab (not all apps) |
-| <kbd>Command</kbd> + <kbd>q</kbd> | Quit |
+| <kbd>⌘</kbd> + <kbd>W</kbd> | Close window or tab |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>W</kbd> | Close all tabs |
+| <kbd>⌘</kbd> + <kbd>T</kbd> | New tab |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>[</kbd> | Previous tab (not all apps) |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>]</kbd> | Next tab (not all apps) |
+| <kbd>⌘</kbd> + <kbd>Q</kbd> | Quit |
 
 `TODO: add details of window layout shortcuts / utils`
 
@@ -73,40 +73,40 @@ Try to learn the keyboard shortcuts for useful commands.
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>Command</kbd> + <kbd>c</kbd> | Copy |
-| <kbd>Command</kbd> + <kbd>v</kbd> | Paste |
-| `Alt + left/right` | Jump between words |
-| <kbd>Command</kbd> + <kbd>left</kbd> or<br/><kbd>Command</kbd> + <kbd>right</kbd> | Jump to start/end of line |
-| <kbd>Command</kbd> + <kbd>backspace</kbd> | Delete to start of line |
-| <kbd>Command</kbd> + <kbd>delete</kbd> | Delete to end of line |
+| <kbd>⌘</kbd> + <kbd>C</kbd> | Copy |
+| <kbd>⌘</kbd> + <kbd>V</kbd> | Paste |
+| <kbd>⌥</kbd> + <kbd>←</kbd> or<br/><kbd>⌥</kbd> + <kbd>→</kbd> | Jump between words |
+| <kbd>⌘</kbd> + <kbd>←</kbd> or<br/><kbd>⌘</kbd> + <kbd>→</kbd> | Jump to start/end of line |
+| <kbd>⌘</kbd> + <kbd>⌫</kbd> | Delete to start of line |
+| <kbd>⌘</kbd> + <kbd>⌦</kbd> | Delete to end of line |
 
-Holding <kbd>Shift</kbd> while jumping will expand the selection in that direction.
+Holding <kbd>⇧</kbd> while jumping will expand the selection in that direction.
 
 ### Operating System / Utils
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>Command</kbd> + <kbd>Space</kbd> | Spotlight |
-| <kbd>Option</kbd> + <kbd>Space</kbd> | Alfred |
-| <kbd>Command</kbd> + <kbd>Tab</kbd> | Application selector. Hold <kbd>Command</kbd> and press either <kbd>Tab</kbd> or <kbd>left</kbd> / <kbd>right</kbd> to select.<br/>Press <kbd>Q</kbd> to close selected app |
-| <kbd>Command</kbd> + <kbd>`</kbd> | Switch windows in current app |
+| <kbd>⌘</kbd> + <kbd>Space</kbd> | Spotlight |
+| <kbd>⌥</kbd> + <kbd>Space</kbd> | Alfred |
+| <kbd>⌘</kbd> + <kbd>⇥</kbd> | Application selector. Hold <kbd>⌘</kbd> and press either <kbd>⇥</kbd> or <kbd>←</kbd> / <kbd>→</kbd> to select.<br/>Press <kbd>Q</kbd> to close selected app |
+| <kbd>⌘</kbd> + <kbd>`</kbd> | Switch windows in current app |
 
 ### Screenshots
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>Command</d> + <kbd>Shift</kbd> + <kbd>3</kbd> | Capture whole screen |
-| <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>4</kbd> | Capture selection. Press <kbd>Space</kbd> to select window |
-| <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>Control</kbd> + <kbd>4</kbd> | Save capture to clipboard instead |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>3</kbd> | Capture whole screen |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>4</kbd> | Capture selection. Press <kbd>Space</kbd> to select window |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>⌃</kbd> + <kbd>4</kbd> | Save capture to clipboard instead |
 
 
 ### General
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>Command</kbd> + <kbd>z</kbd> | Undo |
-| <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>z</kbd> | Redo |
-| <kbd>Command</kbd> + <kbd>s</kbd> | Save |
+| <kbd>⌘</kbd> + <kbd>Z</kbd> | Undo |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>Z</kbd> | Redo |
+| <kbd>⌘</kbd> + <kbd>Z</kbd> | Save |
 
 
 ## Chrome
@@ -122,8 +122,8 @@ https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd> | Command palette |
-| <kbd>Control</kbd> + <kbd>`</kbd> | Show/hide console |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>P</kbd> | Command palette |
+| <kbd>⌃</kbd> + <kbd>`</kbd> | Show/hide console |
 
 `TODO: complete this`
 <!---
