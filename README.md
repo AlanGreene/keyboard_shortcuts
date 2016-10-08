@@ -7,40 +7,6 @@ Inspired by @orta's [keyboard_shortcuts](https://github.com/orta/keyboard_shortc
 [TOC]
 -->
 <!---
-	See keyboard icons here: http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html
-
-	or here:
-
-	HTML Entity     GLYPH  NAME
-	&#63743;              Apple
-	&#8984;         ⌘      Command, Cmd, Clover, (formerly) Apple
-	&#8963;         ⌃      Control, Ctl, Ctrl
-	&#8997;         ⌥      Option, Opt, (Windows) Alt
-	&#8679;         ⇧      Shift
-	&#8682;         ⇪      Caps lock
-	&#9167;         ⏏      Eject
-	&#8617;         ↩      Return, Carriage Return
-	&#8629; &crarr; ↵      Return, Carriage Return
-	&#9166;         ⏎      Return, Carriage Return
-	&#8996;         ⌤      Enter
-	&#9003;         ⌫      Delete, Backspace
-	&#8998;         ⌦      Forward Delete
-	&#9099;         ⎋      Escape, Esc
-	&#8594; &rarr;  →      Right arrow
-	&#8592; &larr;  ←      Left arrow
-	&#8593; &uarr;  ↑      Up arrow
-	&#8595; &darr;  ↓      Down arrow
-	&#8670;         ⇞      Page Up, PgUp
-	&#8671;         ⇟      Page Down, PgDn
-	&#8598;         ↖      Home
-	&#8600;         ↘      End
-	&#8999;         ⌧      Clear
-	&#8677;         ⇥      Tab, Tab Right, Horizontal Tab
-	&#8676;         ⇤      Shift Tab, Tab Left, Back-tab
-	&#9250;         ␢      Space, Blank
-	&#9251;         **␣**  Space, Blank
--->
-<!---
 	see keyboard preferences for more useful shortcuts
 -->
 
@@ -76,9 +42,9 @@ Try to learn the keyboard shortcuts for useful commands.
 | <kbd>⌘</kbd> + <kbd>C</kbd> | Copy |
 | <kbd>⌘</kbd> + <kbd>V</kbd> | Paste |
 | <kbd>⌥</kbd> + <kbd>←</kbd> or<br/><kbd>⌥</kbd> + <kbd>→</kbd> | Jump between words |
-| <kbd>⌘</kbd> + <kbd>←</kbd> or<br/><kbd>⌘</kbd> + <kbd>→</kbd> | Jump to start/end of line |
-| <kbd>⌘</kbd> + <kbd>⌫</kbd> | Delete to start of line |
-| <kbd>⌘</kbd> + <kbd>⌦</kbd> | Delete to end of line |
+| <kbd>⌘</kbd> + <kbd>←</kbd> or<br/><kbd>⌘</kbd> + <kbd>→</kbd> | Jump to start / end of line |
+| <kbd>⌥</kbd> + <kbd>⌫</kbd> or<br/><kbd>⌥</kbd> + <kbd>⌦</kbd> | Delete word left / right of cursor |
+| <kbd>⌘</kbd> + <kbd>⌫</kbd> or<br/><kbd>⌘</kbd> + <kbd>⌦</kbd>| Delete to start / end of line |
 
 Holding <kbd>⇧</kbd> while jumping will expand the selection in that direction.
 
@@ -90,6 +56,8 @@ Holding <kbd>⇧</kbd> while jumping will expand the selection in that direction
 | <kbd>⌥</kbd> + <kbd>Space</kbd> | Alfred |
 | <kbd>⌘</kbd> + <kbd>⇥</kbd> | Application selector. Hold <kbd>⌘</kbd> and press either <kbd>⇥</kbd> or <kbd>←</kbd> / <kbd>→</kbd> to select.<br/>Press <kbd>Q</kbd> to close selected app |
 | <kbd>⌘</kbd> + <kbd>`</kbd> | Switch windows in current app |
+
+`TODO: include shutdown / sleep etc. shortcuts`
 
 ### Screenshots
 
