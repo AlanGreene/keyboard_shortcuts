@@ -91,11 +91,86 @@ https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 | Shortcut | Description |
 | -------- | ----------- |
 | <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>P</kbd> | Command palette |
+| <kbd>⌘</kbd> + <kbd>P</kbd> | Open file by name |
+| <kbd>⌘</kbd> + <kbd>R</kbd> | Go to symbol |
+| <kbd>⌃</kbd> + <kbd>G</kbd> | Go to line |
 | <kbd>⌃</kbd> + <kbd>`</kbd> | Show/hide console |
+| <kbd>⌘</kbd> + <kbd>⌃</kbd> + <kbd>F</kbd> | Toggle fullscreen mode |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>⌃</kbd> + <kbd>F</kbd> | Toggle distraction-free mode |
+
+### Editing
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌘</kbd> + <kbd>⌃</kbd> + <kbd>↑</kbd> or<br/><kbd>⌘</kbd> + <kbd>⌃</kbd> + <kbd>↓</kbd>| Move line (or selection) up / down |
+| <kbd>⌘</kbd> + <kbd>L</kbd> | Select line, repeat to select next lines |
+| <kbd>⌘</kbd> + <kbd>D</kbd> | Select word, repeat to select next occurrence |
+| <kbd>⌘</kbd> + <kbd>⌃</kbd> + <kbd>G</kbd> | Select all occurrences of current selection |
+| <kbd>⌃</kbd> + <kbd>M</kbd> | Jump to matching bracket |
+| <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>M</kbd> | Select contents of current brackets |
+| <kbd>⌘</kbd> + <kbd>K</kbd>, <kbd>⌘</kbd> + <kbd>K</kbd> | Delete from cursor to end of line |
+| <kbd>⌘</kbd> + <kbd>K</kbd> + <kbd>⌫</kbd> | Delete from cursor to start of line |
+| <kbd>⌘</kbd> + <kbd>]</kbd> | Indent current line(s) |
+| <kbd>⌘</kbd> + <kbd>[</kbd> | Un-indent current line(s) |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>D</kbd> | Duplicate line(s) |
+| <kbd>⌘</kbd> + <kbd>J</kbd> | Join line below to end of current line |
+| <kbd>⌘</kbd> + <kbd>/</kbd> | Toggle comments |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>/</kbd> | Block comment current selection |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>V</kbd> | Paste and indent |
+| <kbd>⌃</kbd> + <kbd>Space</kbd> | Select next auto-complete suggestion |
+| <kbd>⌃</kbd> + <kbd>U</kbd> | Soft undo, jump to last change, repeat to undo |
+| <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>W</kbd> | Wrap selection with HTML tag |
+| <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>K</kbd> | Delete current line |
+| <kbd>⌘</kbd> + <kbd>K</kbd>, <kbd>⌘</kbd> + <kbd>U</kbd> | Transform to Uppercase |
+| <kbd>⌘</kbd> + <kbd>K</kbd>, <kbd>⌘</kbd> + <kbd>L</kbd> | Transform to Lowercase |
+
+### Find / Replace
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌘</kbd> + <kbd>F</kbd> | Find |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>F</kbd> | Replace |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>F</kbd> | Find in files |
+
+### Scrolling
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌃</kbd> + <kbd>V</kbd> | Scroll down one page |
+| <kbd>⌃</kbd> + <kbd>L</kbd> | Center current line vertically |
+| <kbd>⌘</kbd> + <kbd>↓</kbd> | Go to end of file |
+| <kbd>⌘</kbd> + <kbd>↑</kbd> | Go to start of file |
+
+### Tabs
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>]</kbd> | Next tab |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>[</kbd> | Previous tab |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>T</kbd> | Reopen last closed tab |
+
+### Split window
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>1</kbd> | Revert view to single column |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>2</kbd> | Split view into two columns |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>3</kbd> | Split view into three columns |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>4</kbd> | Split view into four columns |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>5</kbd> | Split view into five columns |
+| <kbd>⌃</kbd> + <kbd>[NUM]</kbd> | Jump to group where num is 1-4 |
+| <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>[NUM]</kbd> | Move file to specified group where num is 1-4 |
+
+### Bookmarks
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌘</kbd> + <kbd>F2</kbd> | Toggle bookmark |
+| <kbd>F2</kbd> | Next bookmark |
+| <kbd>⇧</kbd> + <kbd>F2</kbd> | Previous bookmark |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>F2</kbd> | Clear bookmarks |
+
 
 `TODO: complete this`
 <!---
-	http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html
 	https://scotch.io/bar-talk/sublime-text-keyboard-shortcuts
 	https://www.cheatography.com/tdeyle/cheat-sheets/sublime-text-3/
 	https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet
