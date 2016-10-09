@@ -6,9 +6,6 @@ Inspired by @orta's [keyboard_shortcuts](https://github.com/orta/keyboard_shortc
 <!---
 [TOC]
 -->
-<!---
-	see keyboard preferences for more useful shortcuts
--->
 
 ## Mac OS X (soon to be macOS)
 
@@ -104,8 +101,8 @@ Add <kbd>⌃</kbd> to save to clipboard instead.
 
 https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 
-`TODO: Check out Vimium / Keyboard Navigation, add details here`
-
+[Keyboard Navigation](https://chrome.google.com/webstore/detail/keyboard-navigation/abcekjakjehkpheoaadhkjfcdodpjbgk)
+<kbd>,</kbd> to show navigation aids.
 
 ## Sublime Text 3
 
