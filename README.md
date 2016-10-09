@@ -93,10 +93,13 @@ https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 | <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>P</kbd> | Command palette |
 | <kbd>⌘</kbd> + <kbd>P</kbd> | Open file by name |
 | <kbd>⌘</kbd> + <kbd>R</kbd> | Go to symbol |
+| <kbd>⌘</kbd> + <kbd>P</kbd>, <kbd>@</kbd> | Open file by name, then search by symbol |
 | <kbd>⌃</kbd> + <kbd>G</kbd> | Go to line |
 | <kbd>⌃</kbd> + <kbd>`</kbd> | Show/hide console |
 | <kbd>⌘</kbd> + <kbd>⌃</kbd> + <kbd>F</kbd> | Toggle fullscreen mode |
 | <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>⌃</kbd> + <kbd>F</kbd> | Toggle distraction-free mode |
+| <kbd>⌘</kbd> + <kbd>K</kbd>, <kbd>⌘</kbd> + <kbd>B</kbd> | Toggle sidebar |
+| <kbd>⌘</kbd> + <kbd>+</kbd> or<br/><kbd>⌘</kbd> + <kbd>-</kbd> | Increase / decrease font size |
 
 ### Editing
 
@@ -108,6 +111,8 @@ https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 | <kbd>⌘</kbd> + <kbd>⌃</kbd> + <kbd>G</kbd> | Select all occurrences of current selection |
 | <kbd>⌃</kbd> + <kbd>M</kbd> | Jump to matching bracket |
 | <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>M</kbd> | Select contents of current brackets |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>Space</kbd> | Expand selection to scope. Repeat to expand further |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>J</kbd> | Expand selection to indentation |
 | <kbd>⌘</kbd> + <kbd>K</kbd>, <kbd>⌘</kbd> + <kbd>K</kbd> | Delete from cursor to end of line |
 | <kbd>⌘</kbd> + <kbd>K</kbd> + <kbd>⌫</kbd> | Delete from cursor to start of line |
 | <kbd>⌘</kbd> + <kbd>]</kbd> | Indent current line(s) |
@@ -123,14 +128,28 @@ https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 | <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>K</kbd> | Delete current line |
 | <kbd>⌘</kbd> + <kbd>K</kbd>, <kbd>⌘</kbd> + <kbd>U</kbd> | Transform to Uppercase |
 | <kbd>⌘</kbd> + <kbd>K</kbd>, <kbd>⌘</kbd> + <kbd>L</kbd> | Transform to Lowercase |
+| <kbd>⌃</kbd> + <kbd>T</kbd> | Transpose selected items |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>.</kbd> | Close tag |
+
+### Code Folding
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌘</kbd> + <kbd>K</kbd>, <kbd>⌘</kbd> + <kbd>K</kbd> | Fold tag attributes |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>[</kbd> | Fold current |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>]</kbd> | Unfold current |
+| <kbd>⌘</kbd> + <kbd>K</kbd>, <kbd>⌘</kbd> + <kbd>1</kbd> | Fold all |
+| <kbd>⌘</kbd> + <kbd>K</kbd>, <kbd>⌘</kbd> + <kbd>J</kbd> | Unfold all |
 
 ### Find / Replace
 
 | Shortcut | Description |
 | -------- | ----------- |
 | <kbd>⌘</kbd> + <kbd>F</kbd> | Find |
+| <kbd>⌘</kbd> + <kbd>F</kbd>, <kbd>⌥</kbd> + <kbd>↩︎</kbd> | Find + multi-edit |
 | <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>F</kbd> | Replace |
 | <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>F</kbd> | Find in files |
+| <kbd>⌘</kbd> + <kbd>E</kbd> | Use selection in find field |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>E</kbd> | Use selection in replace field |
 
 ### Scrolling
 
@@ -156,7 +175,8 @@ https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 | <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>2</kbd> | Split view into two columns |
 | <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>3</kbd> | Split view into three columns |
 | <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>4</kbd> | Split view into four columns |
-| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>5</kbd> | Split view into five columns |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>5</kbd> | Split view into 2x2 grid |
+| <kbd>⌘</kbd> + <kbd>K</kbd>, <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>↑</kbd> | Split pane in half |
 | <kbd>⌃</kbd> + <kbd>[NUM]</kbd> | Jump to group where num is 1-4 |
 | <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>[NUM]</kbd> | Move file to specified group where num is 1-4 |
 
@@ -169,14 +189,6 @@ https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 | <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>F2</kbd> | Clear bookmarks |
 
 
-`TODO: complete this`
-<!---
-	https://scotch.io/bar-talk/sublime-text-keyboard-shortcuts
-	https://www.cheatography.com/tdeyle/cheat-sheets/sublime-text-3/
-	https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet
-	https://webdesign.tutsplus.com/tutorials/useful-shortcuts-for-a-faster-workflow-in-sublime-text-3--cms-22185
-	http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/
-	https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts
--->
-
 ### Packages
+
+`TODO: this...`
