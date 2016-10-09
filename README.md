@@ -102,6 +102,7 @@ Add <kbd>⌃</kbd> to save to clipboard instead.
 https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 
 [Keyboard Navigation](https://chrome.google.com/webstore/detail/keyboard-navigation/abcekjakjehkpheoaadhkjfcdodpjbgk)
+
 <kbd>,</kbd> to show navigation aids.
 
 ## Sublime Text 3
