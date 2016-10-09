@@ -56,8 +56,30 @@ Holding <kbd>⇧</kbd> while jumping will expand the selection in that direction
 | <kbd>⌥</kbd> + <kbd>Space</kbd> | Alfred |
 | <kbd>⌘</kbd> + <kbd>⇥</kbd> | Application selector. Hold <kbd>⌘</kbd> and press either <kbd>⇥</kbd> or <kbd>←</kbd> / <kbd>→</kbd> to select.<br/>Press <kbd>Q</kbd> to close selected app |
 | <kbd>⌘</kbd> + <kbd>`</kbd> | Switch windows in current app |
+| <kbd>⌘</kbd> + <kbd>Mission Control</kbd> | Show desktop |
+| <kbd>⌘</kbd> + <kbd>Brightness down</kbd> | Toggle display mirroring |
+| <kbd>⌥</kbd> + <kbd>Brightness</kbd> | Display preferences |
+| <kbd>⌥</kbd> + <kbd>Volume</kbd> | Sound preferences |
 
-`TODO: include shutdown / sleep etc. shortcuts`
+
+
+### Power
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>⏏</kbd> | Put display to sleep |
+| <kbd>⌃</kbd> + <kbd>⌘</kbd> + <kbd>⏏</kbd> | Restart |
+| <kbd>⌃</kbd> + <kbd>⌥</kbd> + <kbd>⌘</kbd> + <kbd>⏏</kbd> | Shut down |
+| <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>Q</kbd> | Log out |
+
+### Finder
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>C</kbd> | Open Computer window |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>D</kbd> | Open Desktop folder |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>G</kbd> | Open Go to Folder window |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>H</kbd> | Open Home folder |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>K</kbd> | Open Network window |
+| <kbd>⌘</kbd> + <kbd>K</kbd> | Open Connect to Server window |
 
 ### Screenshots
 
