@@ -87,7 +87,8 @@ Holding <kbd>⇧</kbd> while jumping will expand the selection in that direction
 | -------- | ----------- |
 | <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>3</kbd> | Capture whole screen |
 | <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>4</kbd> | Capture selection. Press <kbd>Space</kbd> to select window |
-| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>⌃</kbd> + <kbd>4</kbd> | Save capture to clipboard instead |
+
+Add <kbd>⌃</kbd> to save to clipboard instead.
 
 
 ### General
