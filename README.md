@@ -6,6 +6,12 @@ Inspired by @orta's [keyboard_shortcuts](https://github.com/orta/keyboard_shortc
 <!---
 [TOC]
 -->
+<!---
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+-->
 
 ## Mac OS X (soon to be macOS)
 
@@ -13,13 +19,6 @@ Inspired by @orta's [keyboard_shortcuts](https://github.com/orta/keyboard_shortc
 Try to learn the keyboard shortcuts for useful commands.
 
 ### Window Management
-
-<!---
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
--->
 
 | Shortcut | Description |
 | -------- | ----------- |
@@ -58,9 +57,8 @@ Holding <kbd>⇧</kbd> while jumping will expand the selection in that direction
 | <kbd>⌥</kbd> + <kbd>Brightness</kbd> | Display preferences |
 | <kbd>⌥</kbd> + <kbd>Volume</kbd> | Sound preferences |
 
-
-
 ### Power
+
 | Shortcut | Description |
 | -------- | ----------- |
 | <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>⏏</kbd> | Put display to sleep |
@@ -69,6 +67,7 @@ Holding <kbd>⇧</kbd> while jumping will expand the selection in that direction
 | <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>Q</kbd> | Log out |
 
 ### Finder
+
 | Shortcut | Description |
 | -------- | ----------- |
 | <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>C</kbd> | Open Computer window |
@@ -87,7 +86,6 @@ Holding <kbd>⇧</kbd> while jumping will expand the selection in that direction
 
 Add <kbd>⌃</kbd> to save to clipboard instead.
 
-
 ### General
 
 | Shortcut | Description |
@@ -96,10 +94,7 @@ Add <kbd>⌃</kbd> to save to clipboard instead.
 | <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>Z</kbd> | Redo |
 | <kbd>⌘</kbd> + <kbd>Z</kbd> | Save |
 
-
 ## Chrome
-
-https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 
 [Keyboard Navigation](https://chrome.google.com/webstore/detail/keyboard-navigation/abcekjakjehkpheoaadhkjfcdodpjbgk)
 
@@ -153,6 +148,7 @@ https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 | <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>.</kbd> | Close tag |
 
 ### Code Folding
+
 | Shortcut | Description |
 | -------- | ----------- |
 | <kbd>⌘</kbd> + <kbd>K</kbd>, <kbd>⌘</kbd> + <kbd>K</kbd> | Fold tag attributes |
@@ -190,6 +186,7 @@ https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 | <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>T</kbd> | Reopen last closed tab |
 
 ### Split window
+
 | Shortcut | Description |
 | -------- | ----------- |
 | <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>1</kbd> | Revert view to single column |
@@ -202,6 +199,7 @@ https://github.com/orta/keyboard_shortcuts/blob/master/chrome.md
 | <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>[NUM]</kbd> | Move file to specified group where num is 1-4 |
 
 ### Bookmarks
+
 | Shortcut | Description |
 | -------- | ----------- |
 | <kbd>⌘</kbd> + <kbd>F2</kbd> | Toggle bookmark |
