@@ -13,7 +13,7 @@ Inspired by @orta's [keyboard_shortcuts](https://github.com/orta/keyboard_shortc
 | git diff     | git diff       | git diff      |
 -->
 
-## Mac OS X (soon to be macOS)
+## macOS
 
 <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>?</kbd> to search current app's menus.
 Try to learn the keyboard shortcuts for useful commands.
@@ -211,3 +211,13 @@ Add <kbd>⌃</kbd> to save to clipboard instead.
 ### Packages
 
 `TODO: this...`
+
+### Text Entry
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌥</kbd> + <kbd>]</kbd> | `‘` | 
+| <kbd>⇧</kbd> + <kbd>⌥</kbd> + <kbd>]</kbd> | `’` | 
+| <kbd>⌥</kbd> + <kbd>[</kbd> | `“` | 
+| <kbd>⇧</kbd> + <kbd>⌥</kbd> + <kbd>[</kbd> | `”` | 
+| <kbd>⌥</kbd> + <kbd>;</kbd> | `…` | 
